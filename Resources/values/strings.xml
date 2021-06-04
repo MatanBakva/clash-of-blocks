@@ -1,0 +1,16 @@
+﻿<resources>
+    <string name="app_name">Clash Of Blocks</string>
+    <string name="action_settings">Settings</string>
+    <string name="InstructionsText">
+      Do you have what it takes to excel in this game of wit, brains, and colors?
+
+      In Clash of Blocks, your job is to strategically place your own block so that it rolls out faster than your opponents. Your goal is to win majority of the board, to have your color take up the majority of the board! Can you get a 60% majority? Or 70%? Or 80%? Or even over 90%?
+
+      You need to be sneaky and clever to get more tiles than the opponent color!
+
+      What percentage of the population will your color get?
+
+
+    </string>
+</resources>
+
